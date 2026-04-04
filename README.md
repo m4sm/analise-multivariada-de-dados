@@ -56,4 +56,4 @@ O semestre é dividido em 4 blocos de projetos práticos:
 ---
 *Este repositório faz parte das atividades formativas do curso de Sistemas de Informação - 2026/1.*
 
-## Autor: Marco Antonio Sousa Miranda
+### Autor: Marco Antonio Sousa Miranda
