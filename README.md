@@ -1,6 +1,6 @@
 # 📊 Fundamentos de Ciência de Dados, Análise Multivariada e Preparação para IA
 
-Bem-vindo ao repositório do Grupo de Estudo em Computação Aplicada (2026/1). Este semestre focamos na transição do pensamento algorítmico puro para a análise de dados complexos, utilizando Python como ferramenta principal.
+Repositório do Grupo de Estudo em Computação Aplicada (2026/1). Este semestre focamos na transição do pensamento algorítmico puro para a análise de dados complexos, utilizando Python como ferramenta principal.
 
 ---
 
@@ -55,3 +55,5 @@ O semestre é dividido em 4 blocos de projetos práticos:
 
 ---
 *Este repositório faz parte das atividades formativas do curso de Sistemas de Informação - 2026/1.*
+
+## Autor: Marco Antonio Sousa Miranda
