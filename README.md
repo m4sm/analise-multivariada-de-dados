@@ -1,4 +1,4 @@
-##📊 Fundamentos de Ciência de Dados, Análise Multivariada e Preparação para IA
+# 📊 Fundamentos de Ciência de Dados, Análise Multivariada e Preparação para IA
 
 Bem-vindo ao repositório do Grupo de Estudo em Computação Aplicada (2026/1). Este semestre focamos na transição do pensamento algorítmico puro para a análise de dados complexos, utilizando Python como ferramenta principal.
 
